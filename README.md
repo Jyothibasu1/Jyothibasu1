@@ -27,8 +27,11 @@ Now, I am actively preparing for Advanced Java and working towards mastering Spr
 ✅ Collaboration with experienced developers
 ✅ Learning opportunities in Spring Boot & microservices 
 📬 Let’s Connect!
-💼 GitHub: [https://github.com/Jyothibasu1] 
+
+💼 GitHub: [https://github.com/Jyothibasu1]
+
 🔗 LinkedIn: [www.linkedin.com/in/b-jyothi-basu-6b4a04228] 
+
 🌍 Portfolio: [ \]
 
 *   🌍  I'm based in India
