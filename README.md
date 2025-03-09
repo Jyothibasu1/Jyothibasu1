@@ -32,7 +32,7 @@ Now, I am actively preparing for Advanced Java and working towards mastering Spr
 
 🔗 LinkedIn: [www.linkedin.com/in/b-jyothi-basu-6b4a04228] 
 
-🌍 Portfolio: [ \]
+🌍 Portfolio: [ https://chatgpt.com/canvas/shared/67cd23fe84d081918f2286e8a2487eb2]
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [jyothibasuboda@gmail.com](mailto:jyothibasuboda@gmail.com)
